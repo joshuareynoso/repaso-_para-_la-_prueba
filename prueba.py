@@ -9,8 +9,3 @@ class RECTANGULO:
     def CalculoArea (self):
         return self.ancho * self.longitud
     
-objeto1 = RECTANGULO(20,15)
-
-
-print("El perímetro del rectángulo es:", objeto1.CalculoPerimetro())
-print("El área del rectángulo es:", objeto1.CalculoArea())
