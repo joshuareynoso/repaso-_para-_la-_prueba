@@ -16,5 +16,3 @@ print("El perímetro del rectángulo es:", objeto1.CalculoPerimetro())
 print("El área del rectángulo es:", objeto1.CalculoArea())
 
 
-dfdsf
-print
